@@ -1,3 +1,6 @@
 [submodule "socialBookstoreFrontEnd"]
 	path = socialBookstoreFrontEnd
 	url = https://github.com/okostis/socialBookstoreFrontEnd.git
+[submodule "socialBookStoreBackEnd"]
+	path = socialBookStoreBackEnd
+	url = https://github.com/okostis/socialBookstoreBackEnd
